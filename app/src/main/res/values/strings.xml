@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Beacon Detector</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_uuid">UUID:</string>
+    <string name="txt_major">Major:</string>
+    <string name="txt_minor">Minor:</string>
+    <string name="txt_accuracy">Accuracy:</string>
+    <string name="txt_distance">Distance:</string>
+    <string name="txt_rssi">RSSI:</string>
+    <string name="txt_filter_distance">Filter beacons above %d mts.</string>
+    <string name="txt_information">Beacon Detector Information</string>
+    <string name="txt_bluetooth_required">Bluetooth is required to use this app. Would you like to turn it on?</string>
+</resources>
